@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="disconf">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/disconf-client/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/disconf-client/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/disconf-core/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/disconf-core/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/disconf-web/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/disconf-web/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="disconf"/>
+        <property name="java-output-path" value="/disconf/bin"/>
+    </wb-module>
+</project-modules>
